@@ -4,8 +4,9 @@ title: The Linux Cheatsheet
 ---
 
 ### What is Linux?
-Linux is a kernel — the fundamental piece of software that manages
-the hardware resources notably the CPU and RAM of a computer.
+Linux is a kernel. The kernel is very important software
+that runs on a computer 
+hardware resources notably the CPU and RAM of a computer.
 
 Every operating system has a kernel, and the applications that one
 runs on a computer, including the operating system itself needs to
